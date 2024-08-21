@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketsCRUD", "TicketsCRUD\TicketsCRUD.csproj", "{ECF533DF-6437-4513-8056-7145285B80F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketsCRUD.Core", "Core\TicketsCRUD.Core.csproj", "{92140A91-5425-4AA0-8B10-275BF11A6A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF533DF-6437-4513-8056-7145285B80F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF533DF-6437-4513-8056-7145285B80F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF533DF-6437-4513-8056-7145285B80F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF533DF-6437-4513-8056-7145285B80F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92140A91-5425-4AA0-8B10-275BF11A6A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92140A91-5425-4AA0-8B10-275BF11A6A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92140A91-5425-4AA0-8B10-275BF11A6A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92140A91-5425-4AA0-8B10-275BF11A6A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DCCEF1E-B3DA-4B9A-9A6D-4CC394BE1B3F}
+	EndGlobalSection
+EndGlobal
